@@ -10,4 +10,4 @@
     }];
     [sheet show];
     
-### 实现比较简单，方便扩展。欢迎交流讨论 [简书](http://www.jianshu.com/u/330af95c59d8)
+
